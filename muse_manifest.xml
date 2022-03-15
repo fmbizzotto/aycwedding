@@ -1,0 +1,118 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.gear.host" ftp_rootfolder="//site/wwwroot" exportTarget="FTP" domain="adrianayclaudio.info.tm" resolutions="1x" timestamp="1541722762971">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="3965776641" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4290740143" ref="index"/>
+    <file name="index.css" crc="387367515" ref="index"/>
+    <file name="nomq_index.css" crc="4218479698" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="gianni-scognamiglio-7554-unsplash.jpg" crc="379813971" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 141025-crop-u2441.jpg" crc="3968448353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="juntos1-crop-u2379.jpg" crc="3942696485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171210_020430244-crop-u2255.jpg" crc="3767495236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 131240-crop-u2410.jpg" crc="439086434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 141025-crop-u2450.jpg" crc="330483856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juntos1-crop-u2388.jpg" crc="4084634954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171210_020430244-crop-u2264.jpg" crc="3932237353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 131240-crop-u2419.jpg" crc="536496050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="evento.png" crc="137187479" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vestimenta.png" crc="115436117" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="regalos.png" crc="261041200" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asistencia.png" crc="115207670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calendario.png" crc="3999361847" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 141025-crop-u24412.jpg" crc="4290298696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juntos1-crop-u23792.jpg" crc="3761824689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171210_020430244280x210.jpg" crc="177635997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 131240280x210.jpg" crc="4263985459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 141025-crop-u24502.jpg" crc="4255156025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juntos1-crop-u23882.jpg" crc="3888232481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171210_02043024467x51.jpg" crc="66326653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-11-08 at 13124067x51.jpg" crc="398644894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3920180598" seo="true" mt="1541722604027" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Inicio" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U1099" maxwidth="510" minwidth="0" squishy="false"/>
+        <breakpoint uid="U83" maxwidth="960" minwidth="511" squishy="true"/>
+      </page>
+      <masterPage name="A-Pág. maestra" master="U62" uid="U72">
+        <breakpoint uid="U1122" maxwidth="510" minwidth="0" squishy="true"/>
+        <breakpoint uid="U73" maxwidth="960" minwidth="511" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
